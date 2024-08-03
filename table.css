@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+td{
+    width: 5vw;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.noborder{
+    border: none
+}
+.style{
+    border: none;
+}
